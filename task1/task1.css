@@ -2,9 +2,9 @@ body{
     margin: 1%;
 }
 div{float: left;
-     height:28vw;
-     width:28vw;
+     height:30vw;
+     width:30%;
      background-color: yellow;
     margin: 1%;
-    border-radius:10px ;
+    border-radius:20px ;
 }
