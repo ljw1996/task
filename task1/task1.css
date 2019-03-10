@@ -1,0 +1,10 @@
+body{
+    margin: 1%;
+}
+div{float: left;
+     height:28vw;
+     width:28vw;
+     background-color: yellow;
+    margin: 1%;
+    border-radius:10px ;
+}
